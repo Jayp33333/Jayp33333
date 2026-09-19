@@ -1,28 +1,29 @@
-<!--
-  JAYP33333 — GitHub Profile README
-  Modern Developer Portfolio
--->
-
 <div align="center">
 
 # JAYP33333
 
 ### SOFTWARE DEVELOPER · WEB DEVELOPER · 3D DEVELOPER
 
-Building **modern web applications**, **interactive 3D experiences**, and
-**user-focused digital experiences**.
+**Building modern interfaces, interactive applications, and immersive 3D experiences.**
 
 <br>
 
 <a href="https://jpjamito.vercel.app/">
-  <img src="https://img.shields.io/badge/PORTFOLIO-111111?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+<img src="https://img.shields.io/badge/PORTFOLIO-111111?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
+&nbsp;
 <a href="https://github.com/Jayp33333">
-  <img src="https://img.shields.io/badge/GITHUB-111111?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+<img src="https://img.shields.io/badge/GITHUB-111111?style=for-the-badge&logo=github&logoColor=white" />
 </a>
+&nbsp;
 <a href="mailto:johnpauljamito5@gmail.com">
-  <img src="https://img.shields.io/badge/EMAIL-111111?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+<img src="https://img.shields.io/badge/CONTACT-111111?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
+
+<br>
+<br>
+
+`REACT` `TYPESCRIPT` `MERN` `THREE.JS` `UI/UX`
 
 </div>
 
@@ -30,132 +31,155 @@ Building **modern web applications**, **interactive 3D experiences**, and
 
 ---
 
-## 01 — PROFILE
+<div align="center">
 
-I'm **John Paul Jamito**, an Information Technology graduate focused on
-building functional, interactive, and visually engaging applications.
+## ABOUT
 
-My main areas of interest are **Web Development, 3D Web Development,
-UI/UX Design, and Software Development**.
+</div>
 
-I enjoy turning ideas into real projects, solving technical problems,
-exploring new technologies, and continuously improving my development
-skills.
+<p align="center">
+  <strong>John Paul Jamito</strong> — Information Technology graduate focused on
+  <strong>Web Development, 3D Web Development, UI/UX Design, and Software Development.</strong>
+</p>
 
-```text
-FOCUS
+<p align="center">
+  I enjoy transforming ideas into functional digital experiences,
+  solving technical problems, and continuously improving the way I build software.
+</p>
 
-Frontend        React · TypeScript · JavaScript
-Backend         Node.js · Express · MongoDB
-3D Development  Three.js · React Three Fiber · Blender
-UI / UX         Figma · Photoshop · Canva
-Tools           Git · GitHub · VS Code · Postman
-```
+<br>
+
+<div align="center">
+
+|      FRONTEND      |     BACKEND     |        3D        |       DESIGN      |
+| :----------------: | :-------------: | :--------------: | :---------------: |
+| React · TypeScript |  Node · Express |  Three.js · R3F  | Figma · Photoshop |
+|  JavaScript · Vite | MongoDB · MySQL | Blender · Rapier |       Canva       |
+
+</div>
 
 ---
 
-## 02 — TECH STACK
+<div align="center">
+
+## TECHNOLOGY
+
+</div>
 
 ### LANGUAGES
 
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="52" height="52" alt="JavaScript"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="52" height="52" alt="TypeScript"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="52" height="52" alt="Java"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="52" height="52" alt="C++"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="52" height="52" alt="PHP"/>
+<p align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="48" title="JavaScript"/>
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="48" title="TypeScript"/>
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="48" title="Java"/>
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="48" title="C++"/>
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="48" title="PHP"/>
 </p>
 
-`JavaScript` `TypeScript` `Java` `C++` `PHP`
+<p align="center">
+<code>JavaScript</code>
+<code>TypeScript</code>
+<code>Java</code>
+<code>C++</code>
+<code>PHP</code>
+</p>
 
 ---
 
-### FRONTEND
+### WEB DEVELOPMENT
 
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="52" height="52" alt="HTML5"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="52" height="52" alt="CSS3"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="52" height="52" alt="React"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="52" height="52" alt="Tailwind CSS"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" width="52" height="52" alt="Vite"/>
+<p align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="48" title="HTML5"/>
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="48" title="CSS3"/>
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="48" title="React"/>
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="48" title="Tailwind CSS"/>
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" width="48" title="Vite"/>
 </p>
 
-`HTML` `CSS` `React` `Tailwind CSS` `Vite`
+<p align="center">
+<code>HTML</code>
+<code>CSS</code>
+<code>React</code>
+<code>Tailwind CSS</code>
+<code>Vite</code>
+</p>
 
 ---
 
 ### BACKEND & DATABASE
 
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="52" height="52" alt="Node.js"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" width="52" height="52" alt="Express"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="52" height="52" alt="MongoDB"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="52" height="52" alt="MySQL"/>
+<p align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="48" title="Node.js"/>
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" width="48" title="Express"/>
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="48" title="MongoDB"/>
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="48" title="MySQL"/>
 </p>
 
-`Node.js` `Express` `MongoDB` `MySQL` `REST APIs`
+<p align="center">
+<code>Node.js</code>
+<code>Express</code>
+<code>MongoDB</code>
+<code>MySQL</code>
+<code>REST API</code>
+</p>
 
 ---
 
-### 3D & INTERACTIVE DEVELOPMENT
+### 3D DEVELOPMENT
 
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/threejs/threejs-original.svg" width="52" height="52" alt="Three.js"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg" width="52" height="52" alt="Blender"/>
+<p align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/threejs/threejs-original.svg" width="48" title="Three.js"/>
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg" width="48" title="Blender"/>
 </p>
 
-`Three.js` `React Three Fiber` `React Three Drei` `Rapier`
-`Blender` `GLTF / GLB`
+<p align="center">
+<code>Three.js</code>
+<code>React Three Fiber</code>
+<code>React Three Drei</code>
+<code>Rapier</code>
+<code>Blender</code>
+<code>GLTF / GLB</code>
+</p>
 
 ---
 
-### DEVELOPMENT TOOLS
+### TOOLS & DESIGN
 
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="52" height="52" alt="Git"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="52" height="52" alt="GitHub"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="52" height="52" alt="VS Code"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" width="52" height="52" alt="Postman"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" width="70" height="52" alt="npm"/>
+<p align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="48" title="Git"/>
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="48" title="GitHub"/>
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="48" title="VS Code"/>
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" width="48" title="Postman"/>
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="48" title="Figma"/>
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" width="48" title="Canva"/>
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" width="48" title="Photoshop"/>
 </p>
-
-`Git` `GitHub` `VS Code` `Postman` `npm`
 
 ---
 
-### DESIGN
-
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="52" height="52" alt="Figma"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" width="52" height="52" alt="Canva"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" width="52" height="52" alt="Adobe Photoshop"/>
-</p>
-
-`Figma` `Canva` `Adobe Photoshop`
-
----
-
-## 03 — FEATURED PROJECT
+<br>
 
 <div align="center">
+
+## FEATURED PROJECT
 
 # ISKA 3D CAMPUS TOUR
 
@@ -163,207 +187,216 @@ Tools           Git · GitHub · VS Code · Postman
 
 </div>
 
-**ISKA 3D Campus Tour** is an interactive browser-based 3D campus
-experience designed for **PUP Lopez**.
-
-The project allows students and visitors to explore the campus through
-a playable character and an interactive 3D environment.
-
-### FEATURES
-
-```text
-3D Campus Environment
-Character Selection & Customization
-Male / Female Characters
-First Person Camera
-Third Person Camera
-Interactive Minimap
-Destination Selection
-Teleportation
-Navigation Arrows
-Distance Indicators
-NPC Dialog System
-Building Information
-Visitor Logbook
-Visitor Reports
-```
-
-### TECHNOLOGY
-
-`React` `TypeScript` `Vite` `Three.js` `React Three Fiber`
-`React Three Drei` `Rapier` `Zustand`
+<p align="center">
+  An interactive browser-based 3D campus experience designed
+  to help students and visitors explore <strong>PUP Lopez</strong>.
+</p>
 
 <br>
 
-<a href="https://iska-vt.vercel.app/">
-  <img src="https://img.shields.io/badge/VIEW_LIVE_PROJECT-800000?style=for-the-badge&logo=vercel&logoColor=white" alt="View Live Project"/>
-</a>
-
----
-
-## 04 — EXPERIENCE & PROJECTS
-
-### WEB DEVELOPMENT
-
-Developing responsive and interactive applications using modern
-frontend and backend technologies.
+### THE EXPERIENCE
 
 ```text
-React Applications
-REST APIs
-CRUD Applications
-Database Integration
-Responsive Interfaces
-Frontend Architecture
+EXPLORE
+A fully modeled 3D campus environment.
+
+CUSTOMIZE
+Choose and customize your playable character.
+
+NAVIGATE
+Find buildings and destinations through an interactive minimap.
+
+INTERACT
+Discover buildings, NPCs, information, and destinations.
+
+VISIT
+Record visitor information through the digital logbook.
 ```
 
-### 3D DEVELOPMENT
+### CORE FEATURES
 
-Creating interactive browser-based 3D experiences and environments.
+| EXPERIENCE           | SYSTEM                  |
+| :------------------- | :---------------------- |
+| 3D Campus            | Character Customization |
+| First Person Camera  | Third Person Camera     |
+| Interactive Minimap  | Destination Navigation  |
+| Direction Indicators | Distance Tracking       |
+| NPC Dialog           | Building Information    |
+| Visitor Logbook      | Visitor Reports         |
 
-```text
-Three.js
-React Three Fiber
-3D Character Controllers
-GLTF / GLB Models
-Physics
-Camera Systems
-Interactive Environments
-3D Optimization
-```
-
-### UI / UX DESIGN
-
-Designing interfaces with an emphasis on usability, visual hierarchy,
-responsiveness, and consistency.
-
-```text
-Wireframing
-Interface Design
-Prototyping
-Responsive Design
-Design Systems
-```
-
----
-
-## 05 — PROFESSIONAL INTERESTS
-
-```text
-01  Web Development
-
-02  Full-Stack Development
-
-03  3D Web Development
-
-04  Interactive Applications
-
-05  UI / UX Design
-
-06  Software Development
-```
-
----
-
-## 06 — DEVELOPMENT APPROACH
-
-```text
-BUILD
-  ↓
-TEST
-  ↓
-DEBUG
-  ↓
-LEARN
-  ↓
-IMPROVE
-  ↓
-BUILD AGAIN
-```
-
-I believe in learning through practical development, solving real
-problems, and continuously improving the way I build software.
-
----
-
-## 07 — INTERESTS
+### BUILT WITH
 
 <p align="center">
 
-`CODING`   `GAMING`   `MUSIC`   `BASKETBALL`
-
-<br><br>
-
-`BIKING`   `MOVIES`   `3D`   `DESIGN`
+`React` · `TypeScript` · `Vite` · `Three.js` ·
+`React Three Fiber` · `Drei` · `Rapier` · `Zustand`
 
 </p>
 
----
-
-## 08 — GITHUB ACTIVITY
+<br>
 
 <div align="center">
+
+<a href="https://iska-vt.vercel.app/">
+<img src="https://img.shields.io/badge/EXPLORE_ISKA_3D-800000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<br>
+
+<div align="center">
+
+## WHAT I DO
+
+</div>
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+### WEB
+
+Building responsive and interactive web applications.
+
+`React`
+
+`TypeScript`
+
+`Node.js`
+
+`Express`
+
+`MongoDB`
+
+</td>
+
+<td width="33%" valign="top">
+
+### 3D
+
+Creating interactive browser-based 3D experiences.
+
+`Three.js`
+
+`R3F`
+
+`Blender`
+
+`GLTF`
+
+`Rapier`
+
+</td>
+
+<td width="33%" valign="top">
+
+### DESIGN
+
+Creating clean and usable digital interfaces.
+
+`Figma`
+
+`UI/UX`
+
+`Prototyping`
+
+`Responsive Design`
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+## DEVELOPMENT MINDSET
+
+### BUILD → TEST → DEBUG → LEARN → IMPROVE
+
+I learn through **real projects, experimentation, problem solving,
+and continuous iteration.**
+
+</div>
+
+---
+
+<br>
+
+<div align="center">
+
+## GITHUB
+
+<br>
 
 <img
 src="https://github-readme-stats.vercel.app/api?username=Jayp33333&show_icons=true&hide_border=true&rank_icon=github&theme=transparent"
 height="165"
-alt="GitHub Statistics"
 />
+
+  
 
 <img
 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jayp33333&layout=compact&hide_border=true&theme=transparent"
 height="165"
-alt="Most Used Languages"
 />
 
-</div>
-
 <br>
-
-<div align="center">
+<br>
 
 <img
 src="https://github-readme-streak-stats.herokuapp.com/?user=Jayp33333&hide_border=true&theme=transparent"
-alt="GitHub Streak"
 />
 
 </div>
 
 ---
 
-## 09 — CONNECT
+<br>
 
 <div align="center">
 
-<a href="https://jpjamito.vercel.app/">
-  <img src="https://img.shields.io/badge/PORTFOLIO-111111?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
-</a>
+## INTERESTS
 
-<a href="mailto:johnpauljamito5@gmail.com">
-  <img src="https://img.shields.io/badge/EMAIL-111111?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-
-<a href="https://www.instagram.com/_jypm2/">
-  <img src="https://img.shields.io/badge/INSTAGRAM-111111?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-</a>
-
-<a href="https://www.facebook.com/johnpaul.jamito.585">
-  <img src="https://img.shields.io/badge/FACEBOOK-111111?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
-</a>
+`CODING` · `GAMING` · `MUSIC` · `BASKETBALL` · `BIKING` · `MOVIES` · `3D` · `DESIGN`
 
 </div>
 
-<br>
-
 ---
 
+<br>
+
 <div align="center">
+
+## LET'S CONNECT
+
+<br>
+
+<a href="https://jpjamito.vercel.app/">
+<img src="https://img.shields.io/badge/PORTFOLIO-111111?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="mailto:johnpauljamito5@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-111111?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.instagram.com/_jypm2/">
+<img src="https://img.shields.io/badge/INSTAGRAM-111111?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="https://www.facebook.com/johnpaul.jamito.585">
+<img src="https://img.shields.io/badge/FACEBOOK-111111?style=for-the-badge&logo=facebook&logoColor=white"/>
+</a>
+
+<br>
+<br>
 
 ### JAYP33333
 
 `DESIGNING · BUILDING · LEARNING`
-
-<br>
 
 <sub>Thanks for visiting my profile.</sub>
 
